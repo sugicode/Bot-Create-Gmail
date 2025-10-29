@@ -1,7 +1,7 @@
 # Bot-Auto-Gmail-Creator
 
 ## Summary
-Latest Open Source Bulk Auto Google Account ( Gmail ) Regiteration Bot Script 2025
+Script Bot Registrasi Akun Google Otomatis Massal (Gmail) Open Source Terbaru 2025
 
 ### Important Notice for already cloned/ forked users
 
