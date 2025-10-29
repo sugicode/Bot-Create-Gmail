@@ -1,7 +1,7 @@
 # Auto-Gmail-Creator
 
 ## Summary
-Latest Open Source Bulk Auto Google Account ( Gmail ) Regiteration Bot Script 2023
+Latest Open Source Bulk Auto Google Account ( Gmail ) Regiteration Bot Script 2025
 
 ### Important Notice for already cloned/ forked users
 
