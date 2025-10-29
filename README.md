@@ -11,9 +11,7 @@ I developed stealth webdriver that avoid detection during the account creation. 
 ### Introduction
 
 This is the automation script for Python lovers to learn basics about automation as well as commercial for marketers.
-<a class="github-fork-ribbon right-top" href="https://github.com/ai-to-ai/Auto-Gmail-Creator/fork" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a> <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ai-to-ai.ai-to-ai" />
-
-According to [Jonathan](https://www.quora.com/profile/Jonathan-Elder)'s desription ,only about five gmail addresses can be verified on a single phone number.
+<a class="github-fork-ribbon right-top" href="https://github.com/sugicode/Bot-Create-Gmail" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a> <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ai-to-ai.ai-to-ai" />
 
 This script uses [sms-activate.org](https://sms-activate.org) api for phone verification and more services will be added.
 
